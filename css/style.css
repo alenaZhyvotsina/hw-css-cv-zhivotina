@@ -1,0 +1,48 @@
+body {
+    margin: 20px;
+    background-color: aliceblue;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    font-size: 22px;
+    color: #37474f;
+}
+
+.bold {
+    font-weight: bold;
+    color: black;
+}
+
+div {
+    padding: 0 10px 10px 10px;
+    margin: 10px;
+    border: 2px solid lightslategrey;
+    border-radius: 10px;
+}
+
+.box1 {
+    background-color: gainsboro;
+}
+
+.box2 {
+    background-color: lavender;
+}
+
+li {
+    list-style-type: circle;
+}
+
+.main-items {
+     font-weight: bold;
+    color: #263238;
+}
